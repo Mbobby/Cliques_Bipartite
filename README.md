@@ -1,0 +1,1 @@
+This project was done for a bioinformatics class. The goal of the project was to find how many cliques there were in a given graph data, and also how many bipartite graphs in the graph.
